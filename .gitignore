@@ -1,4 +1,4 @@
 node_modules/
-# Node
-node_modules/
 .env
+mongodb_common_key.pem
+
